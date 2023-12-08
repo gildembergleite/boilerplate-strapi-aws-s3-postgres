@@ -1,5 +1,5 @@
 {
-  "name": "aws-s-3-config",
+  "name": "boirlerplate-strapi-aws-s3-postgres",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
